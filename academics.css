@@ -1,0 +1,34 @@
+.link {
+    text-decoration-line: none;
+    padding: 8px;
+      border: 1px;
+    font-family: fantasy;
+}
+.taskbar{
+      border: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: #773b2d;
+}
+body {
+    background-image: linear-gradient(180deg, #fc00ff, #00dbde);
+    /*background-image:linear-gradient(180deg,#0f0c29,#302b63,#24243e);*/
+}
+.name{
+    padding-left: 450px;
+    text-align: center;
+    font-size:45px;
+    font-family:cursive;
+    text-shadow:3px 1px;
+}
+a {
+    text-decoration: none;
+}
+
+.task {
+    padding-left: 350px;
+}
+
+.div2 {
+    height: auto;
+    width:500px;
+}
